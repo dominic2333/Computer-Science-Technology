@@ -1,3 +1,3 @@
 # Table of contents
 
-* [自然语言处理模型](README.md)
+* [学习者的心态](README.md)
